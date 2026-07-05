@@ -10,7 +10,7 @@ My background combines:
 - Business Intelligence
 - Sports and health-related data analysis
 
-## Current Focus
+## Current Focus 🔎
 
 - Power BI
 - Python
@@ -19,7 +19,7 @@ My background combines:
 - Cloud technologies
 - IT Operations
 
-## Featured Projects
+## Featured Projects 📋
 
 - Football Player Feedback Preferences Analysis  
   Statistical analysis of coaching feedback preferences among Norwegian amateur football players.
@@ -30,7 +30,7 @@ My background combines:
 - Coffee Sales Dashboard  
   Interactive Power BI dashboard analyzing coffee shop sales performance.
 
-## Currently Learning
+## Currently Learning 🎒
 
 - Linux
 - Networking
