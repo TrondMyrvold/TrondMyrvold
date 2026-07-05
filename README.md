@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Trond Einar Myrvold👋
 
-<!--
-**TrondMyrvold/TrondMyrvold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently studying IT Operations while building practical projects in data analytics, Power BI, Python and cloud technologies.
 
-Here are some ideas to get you started:
+My background combines:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- MSc Sports Science
+- Data Analytics
+- IT Operations
+- Business Intelligence
+- Sports and health-related data analysis
+
+## Current Focus
+
+- Power BI
+- Python
+- SQL
+- Linux
+- Cloud technologies
+- IT Operations
+
+## Featured Projects
+
+- Football Player Feedback Preferences Analysis  
+  Statistical analysis of coaching feedback preferences among Norwegian amateur football players.
+
+- Fitness Calorie Expenditure Analysis  
+  Power BI analysis exploring factors influencing calorie expenditure during exercise.
+
+- Coffee Sales Dashboard  
+  Interactive Power BI dashboard analyzing coffee shop sales performance.
+
+## Currently Learning
+
+- Linux
+- Networking
+- Python
+- SQL
+- Cloud infrastructure
+- Home lab / self-hosted services
