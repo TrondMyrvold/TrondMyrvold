@@ -27,8 +27,12 @@ My background combines:
 - Fitness Calorie Expenditure Analysis  
   Power BI analysis exploring factors influencing calorie expenditure during exercise.
 
-- Coffee Sales Dashboard  
+- Coffee Sales Dashboard Analysis
   Interactive Power BI dashboard analyzing coffee shop sales performance.
+
+- Physical Activity and BMI Dashboard Analysis
+  Interactive Power BI dashboard exploring physical activity and BMI trends in Norway using data from Statistisk sentralbyrå
+  (SSB)
 
 ## Currently Learning 🎒
 
