@@ -25,10 +25,10 @@ My background combines:
   Statistical analysis of coaching feedback preferences among Norwegian amateur football players.
 
 - Fitness Calorie Expenditure Analysis  
-  Power BI analysis exploring factors influencing calorie expenditure during exercise.
+  Power BI analysis exploring factors influencing calorie expenditure during exercise (Fictive dataset).
 
 - Coffee Sales Dashboard Analysis
- Interactive Power BI dashboard analyzing coffee shop sales performance.
+ Interactive Power BI dashboard analyzing coffee shop sales performance (Fictive dataset).
 
 - Physical Activity and BMI Dashboard Analysis
 Interactive Power BI dashboard exploring physical activity and BMI trends in Norway using data from Statistisk sentralbyrå
