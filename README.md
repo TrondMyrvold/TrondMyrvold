@@ -34,6 +34,8 @@ My background combines:
 Interactive Power BI dashboard exploring physical activity and BMI trends in Norway using data from Statistisk sentralbyrå
   (SSB)
 
+-  Interactive Power BI dashboard analyzing cardiovascular disease trends in Norway (2021–2025) using public FHI data.
+
 ## Currently Learning 🎒
 
 - Linux
