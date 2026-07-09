@@ -1,6 +1,6 @@
 # Hi, I'm Trond Einar Myrvold👋
 
-I'm currently studying IT Operations while building practical projects in data analytics, Power BI, Python and cloud technologies.
+I'm currently studying IT Operations while building practical projects in data analytics, Power BI, Python, SQL and cloud technologies.
 
 My background combines:
 
